@@ -54,8 +54,7 @@ to save/load the trained model.
 
 ## Setting it up
 
-1. Grab a copy of this folder.
-2. Run the installer:
+1. Run the installer:
 
    ```bash
    python3 install.py
@@ -64,14 +63,14 @@ to save/load the trained model.
    This makes a virtual environment (`venv/`) and installs everything
    into it, so it won't mess with anything else on your computer.
 
-3. Activate it:
+2. Activate it:
 
    ```bash
    source venv/bin/activate        # macOS / Linux
    venv\Scripts\activate           # Windows
    ```
 
-4. Run it:
+3. Run it:
 
    ```bash
    python3 menu.py                 # macOS / Linux
